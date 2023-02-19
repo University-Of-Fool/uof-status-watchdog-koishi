@@ -4,3 +4,7 @@
 ## TODO
  - [ ] 修正 broadcast 策略
 
+## Build
+```
+npm run build uof-status-watchdog-koishi
+```
